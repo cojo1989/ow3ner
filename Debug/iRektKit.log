@@ -1,0 +1,88 @@
+﻿  applyknife.cpp
+  Asus.cpp
+  DLLMain.cpp
+  AntiAim.cpp
+  Autowall.cpp
+  ClantagChanger.cpp
+  LegitBot.cpp
+  Miscellaneous.cpp
+  NameChanger.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file DLLMain.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\Miscellaneous.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\LegitBot.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\ClantagChanger.cpp)
+  PredictionSystem.cpp
+  RageBot.cpp
+  Visuals.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\Autowall.cpp)
+  FakeLag.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Asus.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\AntiAim.cpp)
+  CreateMove.cpp
+  DrawModelExecute.cpp
+  EndScene.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\NameChanger.cpp)
+  FrameStageNotify.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\PredictionSystem.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\FakeLag.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\Visuals.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\CreateMove.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Features\RageBot.cpp)
+  OverrideView.cpp
+  PaintTraverse.cpp
+  PlaySound.cpp
+  WndProc.cpp
+  imgui_dx9.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\EndScene.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\DrawModelExecute.cpp)
+  imgui.cpp
+  imgui_draw.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\FrameStageNotify.cpp)
+  LagCompensation.cpp
+  RecvProp.cpp
+  report.cpp
+  ConVar.cpp
+  Draw.cpp
+  Entity.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\OverrideView.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\PlaySound.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\PaintTraverse.cpp)
+  Input.cpp
+  Interfaces.cpp
+  IBaseClientDLL.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Hooks\WndProc.cpp)
+  IInputSystem.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file report.cpp)
+  IMaterialSystem.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\ConVar.cpp)
+  IPhysicsSurfaceProps.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Draw.cpp)
+  ISurface.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Entity.cpp)
+  IVModelRender.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Input.cpp)
+  IVPanel.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\IInputSystem.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\IBaseClientDLL.cpp)
+  Math.cpp
+  NetVarManager.cpp
+  Config.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\IMaterialSystem.cpp)
+  Global.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\IPhysicsSurfaceProps.cpp)
+  Offsets.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\ISurface.cpp)
+  Util.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\IVModelRender.cpp)
+  SkinChanger.cpp
+  SkinParsing.cpp
+  thirdperson.cpp
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Interfaces\IVPanel.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\NetVarManager.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file SDK\Math.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Settings\Config.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Settings\Global.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Settings\Offsets.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file Settings\Util.cpp)
+c:\users\z3ro_\desktop\csgo hacks\own\wrs hack\irektkit\common.h(22): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory (compiling source file thirdperson.cpp)
